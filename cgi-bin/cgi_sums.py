@@ -4,6 +4,6 @@ import cgitb
 
 cgitb.enable()
 
-print("Content-type: text/plain")
-print()
-print("Your job is to make this work")
+print('Content-type: text/plain')
+print('')
+print('Your job is to make this work')

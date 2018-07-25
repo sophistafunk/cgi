@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
-print("Content-Type: text/plain")
-print("")
+print('Content-Type: text/plain')
+print('')
 
-print("Hello, world!")
+print('Hello, world!')
 
